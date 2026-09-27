@@ -1,3 +1,5 @@
+<img src="brent-crystal-github/" alt="Brent's profile banner" width="800">
+
 # 👋 Hi, I'm Brent — aka @brentscripts
 
 I'm a **Business Systems Developer at TURBOCAM International** in Barrington, NH, focused on building software, integrations, and solutions that connect business processes with technology.
