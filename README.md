@@ -1,6 +1,6 @@
 <p align="center">
   <img src="brents-banner.png" alt="Brent's profile banner" width="800">
-</p>p>
+</p>
 
 # 👋 Hi, I'm Brent — aka @brentscripts
 
