@@ -1,4 +1,4 @@
-<img src="brent-crystal-github/" alt="Brent's profile banner" width="800">
+<img src="brent-crystal-github/brents-banner.png" alt="Brent's profile banner" width="800">
 
 # 👋 Hi, I'm Brent — aka @brentscripts
 
