@@ -1,9 +1,13 @@
-👋 Hi, I’m Brent, also known as @brentscripts!
-- 👀 I’m a junior software developer passionate about using C# and .NET to solve problems and build impactful software.
-- 🌱 Currently exploring Git, Docker, Azure, Blazor, and ASP.NET Core Apps to expand my skill set.
-- 💞️ I’m open to feedback and discussions on my practice projects as I learn and grow in the software development journey.
-- 📫 How to reach me: Connect with me on LinkedIn — I'd love to network!
-- ⚡ Fun Fact: When I’m not coding, you’ll find me crafting pallet wood habitats 🏡 for my kids’ pet ducks 🦆 and chickens 🐓!
+# 👋 Hi, I'm Brent — aka @brentscripts
+
+I'm a **Business Systems Developer at TURBOCAM International** in Barrington, NH, focused on building software, integrations, and solutions that connect business processes with technology.
+
+🌱 Currently exploring **Python, AI, and modern application development** through personal projects.
+
+💻 I enjoy building tools, learning new technologies, and turning ideas into working software.
+
+📫 **Let's connect:** Find me on LinkedIn — I'm always happy to connect and network with fellow developers and technology professionals.
+
 
 <!---
 brentscripts/brentscripts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
